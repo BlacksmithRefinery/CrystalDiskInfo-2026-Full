@@ -1,0 +1,23 @@
+{
+  "repo": "crystaldiskinfo-2026-full",
+  "product": "CrystalDiskInfo 2026 Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "disk-health",
+  "topics": [
+    "crystaldiskinfo",
+    "smart-health-desk",
+    "drive-temp-windows",
+    "crystaldiskinfo-2026",
+    "how-to-install-crystaldiskinfo",
+    "crystaldiskinfo-package",
+    "mail-alert-suite",
+    "attribute-graph-tools",
+    "disk-health-guide",
+    "crystaldiskinfo-install"
+  ],
+  "site": "toolix.me"
+}
